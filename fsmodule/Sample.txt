@@ -1,0 +1,1 @@
+This is a sample text file created using file system moduleWe have used appendFileSync to add to previous text.
